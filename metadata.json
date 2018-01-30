@@ -1,0 +1,15 @@
+{
+  "name": "nilesh-role",
+  "version": "0.1.0",
+  "author": "Nilesh",
+  "summary": "THis is for ROle management",
+  "license": "Apache-2.0",
+  "source": "git@github.com:nileshpadwal456/puppet-role.git",
+  "project_page": "https://github.com/nileshpadwal456/puppet-role",
+  "issues_url": "https://github.com/nileshpadwal456/puppet-role/issue",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
